@@ -1,0 +1,25 @@
+.post-comments  {
+  margin-top: 20px;
+}
+
+.divider {
+  width: 100%;
+}
+
+.comment {
+  margin-top: 20px;
+  display: flex;
+}
+
+.comment p {
+  border-radius: 20px;
+  background: #eeeeee;
+  margin-left: 15px;
+  padding: 15px;
+  font-size: 13px;
+}
+
+.comment p > span {
+  font-size: 14px;
+  font-weight: bold;
+}
